@@ -52,7 +52,7 @@ This project helped me understand:
 
 ## 🧪 Live Demo
 
-👉 [View the live demo](https://mylapalliyesebu.github.io/counter-app-react/)
+👉 [View the live demo](https://counter-app-react-phi-seven.vercel.app/)
 
 ---
 
